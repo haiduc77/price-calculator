@@ -1,0 +1,66 @@
+[{
+    "name":"BulkSellRebate",
+    "customer":
+        {
+            "firstname": "Customer1",
+            "lastname": "Customer1",
+            "email": "Customer1@gmail.com"
+        }
+    ,
+    "product":
+        {
+            "name": "Product1",
+            "description": "Description1",
+            "price": "100.5"
+        }
+    
+},
+{
+    "name":"SpecialDealRebate",
+    "customer":
+        {
+            "firstname": "Customer2",
+            "lastname": "Customer2",
+            "email": "Customer2@gmail.com"
+        }
+    ,
+    "product":
+        {
+            "name": "Product2",
+            "description": "Description2",
+            "price": "100.5"
+        }
+},
+{
+    "name":"TimeOfYearRebate",
+    "customer":
+        {
+            "firstname": "Customer3",
+            "lastname": "Customer3",
+            "email": "Customer3@gmail.com"
+        }
+    ,
+    "product":
+        {
+            "name": "Product3",
+            "description": "Description3",
+            "price": "110.5"
+        }
+    
+},
+{
+    "name":"BulkSellRebate",
+    "customer":
+        {
+            "firstname": "Customer4",
+            "lastname": "Customer4",
+            "email": "Customer4@gmail.com"
+        }
+    ,
+    "product":
+        {
+            "name": "Product3",
+            "description": "Description3",
+            "price": "120.5"
+        }
+}]
